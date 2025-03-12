@@ -12,4 +12,11 @@ Here is a short story of what I am:
 
 ![GIF](code.gif)
 
+## Socials
+<div>
+  <a href="https://www.instagram.com/rizkyvs_1402/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
+  </a>
+</div>
+<img height="35"/>
+
 
