@@ -10,4 +10,6 @@ Here is a short story of what I am:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm single
 
+![](https://github.com/RizzKY011/code.gif)
+
 
