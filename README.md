@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, my name is Rizky 👋
 
-<!--
-**RizzKY011/RizzKY011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here is a short story of what I am:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently an university student
+- 🌱 I’m currently learning Human Computer Interaction
+- 👯 I’m looking to collaborate on projects
+- 🤔 I’m looking for help with Back-End Development
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm single
+
+
